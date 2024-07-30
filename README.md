@@ -30,6 +30,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anyskaa&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anyskaa&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![masterhead](https://i.pinimg.com/originals/08/66/7b/08667b62bab3372c03b39f21019d12e9.gif)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anyskaa&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 

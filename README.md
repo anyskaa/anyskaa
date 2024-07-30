@@ -13,6 +13,7 @@
 <a href="https://instagram.com/not.orie7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not.orie7_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/anyskaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anyskaa" height="30" width="40" /></a>
 <a href="https://discord.gg/.anyska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".anyska" height="30" width="40" /></a>
+<a href="https://www.reddit.com/u/anuskaque/s/2ZuEMPc8sB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="anuskaque" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

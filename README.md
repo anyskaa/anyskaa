@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/5e/b7/28/5eb728f74875abdba6c3c44ace2399ff.gif)
-
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 <h1 align="center">Hi 👋, I'm anuska</h1>
 <h3 align="center">im a coconut🥥</h3>

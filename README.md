@@ -1,4 +1,4 @@
-<![MasterHead](https://i.pinimg.com/originals/5e/b7/28/5eb728f74875abdba6c3c44ace2399ff.gif)
+<![MasterHead](https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif)
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 <h1 align="center">Hi 👋, I'm anuska</h1>
@@ -32,7 +32,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anyskaa&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
-![Master](https://i.pinimg.com/originals/cf/d2/62/cfd26242ddf4bfd1fac6cf8eb747b405.gif) <!-- online now gif -->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

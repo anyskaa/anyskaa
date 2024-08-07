@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm anuska</h1>
 <h3 align="center">im a coconut🥥</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anu8ka&label=Profile%20views&color=0e75b6&style=flat" alt="anu8ka" /> </p>
 
 
 
@@ -50,10 +49,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=anyskaa&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anu8ka&label=Profile%20views&color=0e75b6&style=flat" alt="anu8ka" /> </p>
 
-![tatlskedi](https://i.chzbgr.com/full/9175770112/hF85C18E5/cat-kissing-the-camera)
 
 
 

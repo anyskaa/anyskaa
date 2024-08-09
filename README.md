@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/20/73/5c/20735c0ebd969fbce59a88712863da7f.gif)
+![MasterHead](https://pin.it/5X9k2tE0J)
 
 
 <h1 align="center">Hi 👋, I'm anuska</h1>

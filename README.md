@@ -48,7 +48,7 @@
 <a href="https://www.youtube.com/c/anyskaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anyskaa" height="30" width="40" /></a>
 <a href="https://discord.gg/.anyska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".anyska" height="30" width="40" /></a>
 <a href="https://www.reddit.com/u/anuskaque/s/2ZuEMPc8sB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="anuskaque" height="30" width="40" /></a>
-<a href="https://pin.it/73ldwk7qB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="anyskag" height="30" width="40" /></a>
+<a href="https://pin.it/3Lvd4uKV3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="anyskag" height="30" width="40" /></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anu8ka&label=Profile%20views&color=0e75b6&style=flat" alt="anu8ka" /> </p>

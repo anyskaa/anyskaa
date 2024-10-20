@@ -47,7 +47,7 @@
 <br>
     
 [![](https://visitcount.itsvg.in/api?id=anuska&label=Profile%20Views&color=10&icon=9&pretty=true)](https://visitcount.itsvg.in)
-
+<img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=yellow" align="right"/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

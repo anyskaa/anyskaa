@@ -46,7 +46,7 @@
 <br>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=anyskaa&&style=plastics&&color=red" align="right"/>
+<img src="https://komarev.com/ghpvc/?username=anyskaa&&style=plastics&&color=red" align="left"/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

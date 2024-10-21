@@ -44,7 +44,7 @@
 <p align="left">
 <a href="https://twitter.com/anyskag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anyskag" height="30" width="40" /></a> 
 <a href="https://youtube.com/@anyskaa?si=oYH1uU4H63yM_yjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anyskaa" height="30" width="40" /></a>
-<a href="https://discord.gg/.anyska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".anyska" height="30" width="40" /></a>
+<a href="https://discord.gg/RAMyWyZZEQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".anyska" height="30" width="40" /></a>
 <a href="https://www.reddit.com/u/anuskaque/s/2ZuEMPc8sB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="anuskaque" height="30" width="40" /></
 
 <br>
